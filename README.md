@@ -1,7 +1,5 @@
 # Concert Finder
 
-Demo: https://concert-finder.jackluo.me
-
 ![Concert Finder](./screenshot.png)
 ## Table of Contents
 

@@ -69,7 +69,3 @@ npm run start
 # frontend
 npm run dev
 ```
-
-# Demo
-
-https://concert-finder.jackluo.me
